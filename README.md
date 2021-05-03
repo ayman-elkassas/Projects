@@ -12,6 +12,12 @@ youtube part2: https://www.youtube.com/watch?v=1hAgHJuhrZ0
 
 ### Covid19
 
+Client Nuxt App:
+
 github link: https://github.com/ayman-elkassas/covid19-Nuxt
 
 heroku link: https://kovid19-socialite.herokuapp.com/
+
+Laravel Server backend:
+
+github link: https://github.com/ayman-elkassas/covid19-server
